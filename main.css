@@ -1,0 +1,48 @@
+/* Ajoutez des styles personnalisés ici */
+
+/* Style pour le titre de la page */
+h1 {
+    font-size: 36px;
+    color: #333; /* Couleur du texte */
+}
+
+/* Style pour les liens de la barre de navigation */
+.navbar-nav .nav-link {
+    color: #fff; /* Couleur du texte des liens */
+    font-weight: bold; /* Texte en gras */
+}
+
+/* Style pour le bouton "Contactez moi !" */
+.btn-primary {
+    background-color: grey; /* Couleur de fond */
+    border-color: grey; /* Couleur de la bordure */
+    font-weight: bold; /* Texte en gras */
+}
+
+/* Style pour la section "Mes types de projets" */
+#projects {
+    background-color: #f7f7f7; /* Couleur de fond */
+    padding: 20px; /* Espace intérieur */
+}
+
+/* Style pour les cartes de projet */
+.card {
+    border: 1px solid #ddd; /* Bordure autour des cartes */
+    border-radius: 10px; /* Coins arrondis */
+    margin-bottom: 20px; /* Marge en bas des cartes */
+}
+
+/* Style pour le pied de page */
+footer {
+    padding: 20px 0; /* Espace intérieur en haut et en bas */
+    color: #fff; /* Couleur du texte */
+    text-align: center; /* Centrer le texte */
+    background-color: grey;
+}
+
+/* Style pour les icônes de médias sociaux dans le pied de page */
+.btn-floating i {
+    font-size: 24px; /* Taille de l'icône */
+    color: #333; /* Couleur de l'icône */
+    margin: 0 5px; /* Marge autour de l'icône */
+}
